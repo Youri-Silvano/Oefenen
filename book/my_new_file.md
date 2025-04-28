@@ -13,10 +13,10 @@ Lekker sjawarma
 ## 2. Kip met bot
 Kentucy fried chicken
 
-### Vleugels
+### 2.1 Vleugels
 Bla bla bla
 
-### Pootjes
+### 2.2 Pootjes
 Bleh bleh bleh
 
 
