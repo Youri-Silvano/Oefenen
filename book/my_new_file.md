@@ -4,6 +4,14 @@ introductie
 ## 1. Kipfilet
 Bla bla bla
 
+```{figure} figures/kipfilet.jpg
+---
+width: 80%
+align: center
+---
+<caption text>
+```
+
 ### 1.1 Kipblokjes
 Lekker sate
 
