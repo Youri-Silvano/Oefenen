@@ -12,5 +12,5 @@ name: fig_mijneerstefiguur
 ---
 add bestand in de folder
 ``` 
-$$ e^{i*pi} + 1 =0 $$
+$$ e^{i\pi} + 1 =0 $$
 
