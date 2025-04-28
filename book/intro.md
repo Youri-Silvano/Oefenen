@@ -14,7 +14,7 @@ add bestand in de folder
 ``` 
 $$ e^{i\pi} + 1 =0 $$
 
-|U [V]|I [A]|R [/omega]|P [W]|
+|U [V]|I [A]|R [/Omega]|P [W]|
 |---|---|---|---|
 |6|2|3|12|
 |9|3|3|18|
